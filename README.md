@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+This is my read file. to update me.
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
